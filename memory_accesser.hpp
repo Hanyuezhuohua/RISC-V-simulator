@@ -13,7 +13,7 @@ public:
 	TYPE type_brief = UNKNOWN;
 	type type_detail = INVALID;
 public:
-	memory_accessor(){
+	memory_accesser(){
 		init = false;
 		stall = false;
 		type_brief = UNKNOWN;
