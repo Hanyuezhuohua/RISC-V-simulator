@@ -15,7 +15,7 @@ public:
 	TYPE type_brief = UNKNOWN;
 	type type_detail = INVALID;
 public:
-	exector(){
+	executor(){
 		init = false;
 		stall = false;
 		jumperror = false;
